@@ -4,7 +4,7 @@ meta:
 </route>
 
 <template>
-  <v-container>
+  <v-container class="d-flex align-center justify-center" style="height: 100vh;">
     <v-row class="logo-row">
       <v-col class="d-flex justify-center" cols="12">
         <AppLogo />
