@@ -1,3 +1,9 @@
+<script setup>
+import WorkTabBar from "@/components/work/\bWorkTabBar.vue";
+import WorkContent from "@/components/work/WorkContent.vue";
+</script>
+
 <template>
-  <div>hello</div>
+  <WorkTabBar />
+  <WorkContent />
 </template>
